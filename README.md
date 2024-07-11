@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deuz31
-- 👀 I’m interested in C++
+- 👀 I’m interested in learning JS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects in cloud environments 
 - 📫 How to reach me..
